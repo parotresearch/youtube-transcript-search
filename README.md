@@ -1,2 +1,2 @@
-# radar-apps
-Transcript search demo
+# Radar Apps
+Coming soon.
